@@ -1,0 +1,31 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "blockchain guru",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "whatisblockchain",
+                    "slots": [],
+                    "samples": [
+                        "tell me facts about blockchain",
+                        "facts about blockchain",
+                        "Blockchain facts"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
